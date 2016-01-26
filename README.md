@@ -2,9 +2,9 @@
 Integrative orthogonal non-negative matrix factorization
 
 An integrative approach to model and predict multiple data sources based on orthogonal matrix factorization. 
-For details of the model, please refer to 
-Stražar M., Žitnik M., Zupan B., Ule. J, Curk. T: Orthogonal matrix factorization enables integrative analysis of multiple RNA binding proteins
-(to appear).
+For details of the model, please refer to:
+
+[Martin Stražar, Marinka Žitnik, Blaž Zupan, Jernej Ule, and Tomaž Curk (2016) Orthogonal matrix factorization enables integrative analysis of multiple RNA binding proteins, Bioinformatics, doi: 10.1093/bioinformatics/btw003](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btw003?ijkey=7YhmkcWqEPHzqlb&keytype=ref)
 
 ### Installation
 
